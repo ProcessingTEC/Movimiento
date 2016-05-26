@@ -4,6 +4,9 @@ Al estar processing orientado a la visualización del código principal draw a u
 
 ##Movimiento y atracción
 
+
+<img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Movement2/movement2.png" width="100">
+
 <img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Movement1/movimiento.png" width="100">
 
 ##Ruido
