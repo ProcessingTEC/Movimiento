@@ -11,6 +11,7 @@ Al estar processing orientado a la visualización del código principal draw a u
 
 ##Ruido
 
+<img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Random1/random1.png" width="100">
 
 ##Oscilación
 
