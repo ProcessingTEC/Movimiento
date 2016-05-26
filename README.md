@@ -4,4 +4,4 @@ Al estar processing orientado a la visualización del código principal draw a u
 
 ##Movimiento y atracción
 
-<img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Obj1/0127.jpg" width="100">
+<img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Movement1/movimiento.png" width="100">
