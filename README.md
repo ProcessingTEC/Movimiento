@@ -14,3 +14,4 @@ Al estar processing orientado a la visualización del código principal draw a u
 
 ##Oscilación
 
+<img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Osc1/osc.png" width="100">
