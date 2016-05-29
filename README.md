@@ -19,4 +19,4 @@ Que vamos a aprender acá:
 
 ##Oscilación
 
-<img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Osc1/osc.png" width="100"><img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Osc2/oscillation.png" width="100">
+<img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Osc1/osc.png" width="100"><img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Osc2/oscillation.png" width="100"><img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_S2_Osc3/oscillation2.png" width="100">
