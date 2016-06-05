@@ -6,13 +6,13 @@ A partir de la visualización del movimiento, se pueden crear diseños y estruct
 
 ##Posición en plano
 
-PVector, es un objeto que guarda coordenadas `x, y z`.  Revisar en la página de processing el [tutorial de vectores](https://processing.org/tutorials/pvector/).  En [este video](https://www.youtube.com/watch?v=7nTLzLf7jUg) hay un buen tutorial de como manipular vectores y usarlos en el contexto de movimiento.
+`PVector`, es un objeto que guarda coordenadas `x, y z`.  Revisar en la página de processing el [tutorial de vectores](https://processing.org/tutorials/pvector/).  En [este video](https://www.youtube.com/watch?v=7nTLzLf7jUg) hay un buen tutorial de como manipular vectores y usarlos en el contexto de movimiento.
 
 Para un objeto en posición `x,y` que puede tener una velocidad en cada componente.  La velocidad cambia la pocisión del objeto en cada compnente, y la aceleración cambia la velocidad.  
 
 ##Listas de cosas
 
-ArrayList
+`ArrayList`es una estructura útil para contruir arreglos de cosas, por ejemplo arreglos de `PVector`.  Sirev para agregar y quitar elementos en una lista de forma dinámica.  EN la referencia de Processing viene muy poco, sin embargo pueden explorar el capítulo 23.4 del libro [Learning Processing](https://drive.google.com/open?id=0B4HO-XVhuYRSV05WQjg2Um9yUWM), y para los que saben más pueden revisar la [referencia de java](http://docs.oracle.com/javase/1.5.0/docs/api/java/util/ArrayList.html).  Aunque este es un tema avanzado, muchos de los proyectos de processing se ven beneficiados al entender trabajar con listas dinámicas en lugar de arreglos.  Daniel Shiffman preparó [este exelente video](https://www.youtube.com/watch?v=HnSJZ4qTcwY) para explicar el uso de `ArrayList`
 
 ##Temas
 Que vamos a aprender acá:
