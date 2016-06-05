@@ -18,7 +18,7 @@ Para hacer listas de cosas se puede usar la estructura de arrays.  [Sigan este t
 
 ##Aleatoriedad y Ruido
 
-En este infográfico pueden encontrar una buena explicación de el uso de `random`y de `noise`.
+En este infográfico pueden encontrar una buena explicación de el uso de `random`y de `noise`, tomado de un material de Monach University para creative coding.
 <img src="https://github.com/ProcessingTEC/Movimiento/blob/master/P_random.jpg" width="800">
 
 
